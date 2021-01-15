@@ -1,0 +1,9 @@
+# environments
+/venv
+/venv38_pc
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.idea
